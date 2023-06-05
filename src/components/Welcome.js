@@ -9,7 +9,7 @@ export default function Welcome() {
             </h1>
           </div>
           <div className="divider my-3"></div>
-          <p className="mt-8 mb-2 text-xl reveal-after-2-seconds">
+          <p className="mt-12 mb-2 text-xl reveal-after-2-seconds">
             I am a{" "}
             <span className="text-2xl text-primary font-bold italic">full-stack</span> web
             developer.
@@ -19,6 +19,7 @@ export default function Welcome() {
             <span className="italic underline">useful</span> and{" "}
             <span className="font-bold italic">beautiful</span>.
           </p>
+
           <span className=" scroll-icon w-5 lg:w-6 inline-flex absolute bottom-0 mb-8 reveal-after-3-seconds">
             <svg
               xmlns="http://www.w3.org/2000/svg"
