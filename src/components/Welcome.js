@@ -9,7 +9,7 @@ export default function Welcome() {
             </h1>
           </div>
           <div className="divider my-3"></div>
-          <p className="mt-12 mb-2 text-xl reveal-after-2-seconds">
+          <p className="mt-12 mb-6 text-xl reveal-after-2-seconds">
             I am a{" "}
             <span className="text-2xl text-primary font-bold italic">full-stack</span> web
             developer.
