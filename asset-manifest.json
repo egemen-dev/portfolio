@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.f9216646.css",
+    "main.js": "/portfolio/static/js/main.e6eea522.js",
+    "static/media/odinbar.gif": "/portfolio/static/media/odinbar.ca61c2e5869a87d069ec.gif",
+    "static/media/weather-app.gif": "/portfolio/static/media/weather-app.a832d646516b58d7591e.gif",
+    "static/media/cv-builder.gif": "/portfolio/static/media/cv-builder.c9f70b89f53f46eb7292.gif",
+    "static/media/flight-booker.gif": "/portfolio/static/media/flight-booker.02eeec6c9a251c815c07.gif",
+    "static/media/todo.gif": "/portfolio/static/media/todo.034db0d1f615963f5c4f.gif",
+    "static/media/colors.gif": "/portfolio/static/media/colors.811f3ac14f9d94603119.gif",
+    "static/media/active-devices.jpg": "/portfolio/static/media/active-devices.21c1401e1893afcf7013.jpg",
+    "static/media/dashboard.gif": "/portfolio/static/media/dashboard.211d8bb9abbf62193840.gif",
+    "static/media/chess-board.gif": "/portfolio/static/media/chess-board.594d6edac2190b5ea415.gif",
+    "index.html": "/portfolio/index.html",
+    "main.f9216646.css.map": "/portfolio/static/css/main.f9216646.css.map",
+    "main.e6eea522.js.map": "/portfolio/static/js/main.e6eea522.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9216646.css",
+    "static/js/main.e6eea522.js"
+  ]
+}
