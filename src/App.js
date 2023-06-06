@@ -33,11 +33,9 @@ export default function App() {
   return (
     <div className="flex flex-col justify-center items-center">
       <Welcome />
-
       <div className="flex flex-col justify-center items-center gap-10">
         <h2 className="text-3xl font-bold text-center mt-24">Projects</h2>
         <div className="divider mb-24"></div>
-
         <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-16 px-8">
           <Card
             appName="Weather Forecast App"
@@ -120,10 +118,6 @@ export default function App() {
           <Stack />
         </div>
       </div>
-
-      {/* skills section like javascript */}
-      {/* Skills and Technologies section */}
-
       <Footer />
     </div>
   );
