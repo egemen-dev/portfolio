@@ -26,7 +26,7 @@ export default function Skills() {
         <SkillContainer icon={<ReactIcn />} name="React" />
         <SkillContainer icon={<Ruby />} name="Ruby" />
         <SkillContainer icon={<RoR />} name="Rails" />
-        <SkillContainer icon={<SQL />} name="SQL" />
+        <SkillContainer icon={<SQL />} name="PostgreSQL" />
         <SkillContainer icon={<Git />} name="Git" />
         <SkillContainer icon={<Tailwind />} name="Tailwind" />
         <SkillContainer icon={<Elasticsearch />} name="Elasticsearch" />
