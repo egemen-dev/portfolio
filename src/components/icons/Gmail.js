@@ -1,6 +1,6 @@
 export default function Gmail() {
   return (
-    <svg xmlns="http://www.w3.org/2000/svg" width="70" height="60" viewBox="0 0 256 193">
+    <svg xmlns="http://www.w3.org/2000/svg" width="56" height="50" viewBox="0 0 256 193">
       <path
         fill="#4285F4"
         d="M58.182 192.05V93.14L27.507 65.077L0 49.504v125.091c0 9.658 7.825 17.455 17.455 17.455h40.727Z"

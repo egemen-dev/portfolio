@@ -1,6 +1,6 @@
 export default function Github() {
   return (
-    <svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 256 256">
+    <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 256 256">
       <g fill="none">
         <rect width="256" height="256" fill="#242938" rx="60" />
         <path
