@@ -73,7 +73,7 @@ section {
 
 .scroll-icon {
   animation: reveal 2s, bounce 1s infinite alternate 1s;
-  fill: rgb(157, 157, 157);
+  fill: rgb(102, 102, 102);
 }
 
 .out {
