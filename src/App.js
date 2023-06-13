@@ -114,7 +114,7 @@ export default function App() {
           />
         </div>
         <Skills />
-        <div className="pt-24 flex flex-col justify-center items-center">
+        <div className="pt-24 flex flex-col justify-center items-center px-12">
           <Stack />
         </div>
       </div>
