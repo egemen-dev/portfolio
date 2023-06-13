@@ -4,7 +4,7 @@ import Linkedin from "./icons/Linkedin";
 
 export default function Stack() {
   return (
-    <div className="card-body items-center shadow-xl bg-base-100 rounded-box dark:bg-base-200">
+    <div className="card-body items-center shadow-xl bg-base-100 rounded-box dark:bg-base-200 p-12">
       <h2 className="card-title dark:text-gray-100">Connect with me now!</h2>
 
       <p className="text-center dark:text-gray-300 py-6">
