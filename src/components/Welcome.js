@@ -20,7 +20,7 @@ export default function Welcome() {
             <span className="font-bold italic">beautiful</span>.
           </p>
 
-          <span className=" scroll-icon w-5 lg:w-6 inline-flex absolute bottom-0 mb-8 reveal-after-3-seconds">
+          <span className="scroll-icon w-5 lg:w-6 inline-flex absolute bottom-0 mb-8 reveal-after-3-seconds">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               shape-rendering="geometricPrecision"
